@@ -1,0 +1,6 @@
+{
+  "name": "autoverse",
+  "description": "بوابة ذكاء اصطناعي تفاعلية للرد على عملاء واتساب تلقائيًا على مدار الساعة لمختلف الأنشطة التجارية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
